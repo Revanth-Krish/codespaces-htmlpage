@@ -33,3 +33,11 @@ The website will be deployed as a subdomain of static.app
 			
 			Reload your web page, make a sample submission, and verify that the response was recroded
 
+   We just need to add the following into our form's HTML code:
+
+<form 
+      id="application-form" 
+      action="https://formbold.com/s/oaPqM" 
+      method="POST" 
+      enctype="multipart/form-data" >
+
